@@ -37,7 +37,7 @@ const Navber = (props) => {
               className="text-3xl rounded-lg   tracking-widest  cursor-pointer"
               onClick={(e) => history.push("/")}
             >
-             🅶🅰🅳🅶🅴🆃🅱🆈🆃🅴
+              FOOT_WEAR 
             </h1>
           </div>
           <div className="col-span-2 lg:hidden flex justify-items-stretch	 items-center">
